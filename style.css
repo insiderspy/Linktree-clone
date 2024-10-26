@@ -35,6 +35,14 @@ body{
   border-radius: 50%;
  
 }
+.link-card:hover {
+  color: black;
+  background-color: white;
+  
+}
+.share-button:hover {
+  color:greenyellow;
+}
 
 .img-container{
   height: 96px;
